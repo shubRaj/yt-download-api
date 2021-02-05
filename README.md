@@ -1,3 +1,3 @@
 # yt-download-api
 ## API ENDPOINT
-https://ytubedlapi.herokuapp.com/youtube/<yt_video_id>/
+https://api.shubraj.cf/youtube/id={youtube_video_id}
